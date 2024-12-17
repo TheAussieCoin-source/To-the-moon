@@ -109,8 +109,8 @@ footer p {
 /* Coin Style */
 .coin {
     position: relative;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     transform-style: preserve-3d;
     animation: rotateCoin 5s infinite linear; /* Animation */
 }
