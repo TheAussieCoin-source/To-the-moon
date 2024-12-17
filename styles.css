@@ -106,7 +106,11 @@ footer p {
 }
 
 .coin-container {
-    perspective: 1000px; /* Crée un effet 3D */
+    margin-top: 30px; /* Espace entre le bouton et la pièce */
+    display: flex;
+    justify-content: center; /* Centre horizontalement */
+    align-items: center; /* Centre verticalement */
+    width: 100%;
 }
 
 /* Coin Style */
