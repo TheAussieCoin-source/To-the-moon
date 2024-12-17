@@ -151,7 +151,7 @@ footer p {
 .edge {
     position: absolute;
     width: 150px; /* Même largeur que la pièce */
-    height: 20px; /* Épaisseur de la tranche */
+    height: 30px; /* Épaisseur de la tranche */
     background: linear-gradient(to right, #f8c471, #e67e22); /* Dégradé pour donner du réalisme */
     top: 50%;
     left: 50%;
